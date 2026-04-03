@@ -39,11 +39,11 @@ git --version
 
 To get a copy of this repository on your local machine:
 
-git clone https://github.com/AndysBoot/NYIT-github-event.git
+git clone https://github.com/AndysBoot/NYIT-github-event-ACM.git
 
 Then navigate into the folder:
 
-cd NYIT-github-event
+cd NYIT-github-event-ACm
 📁 Projects
 
 Inside this repository, you’ll find a folder called:
