@@ -1,5 +1,5 @@
 # 🧮 Simple Calculator
-#(((REWRITE THIS))) "change the template and add challenges for users
+#(((REWRITE THIS))) "change the template and add challenges for users"
 
 ## Description
 A basic calculator that performs arithmetic operations.
