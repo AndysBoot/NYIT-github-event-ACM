@@ -9,6 +9,6 @@ An application that asks for an input of dice and generates a random number from
 
 
 
-THIS PROJECT HAS BEEN PROVIDED BY: https://github.com/Efeckc17/simple-example-projects-in-Python
-Credit: Efeckc17
+THIS PROJECT HAS BEEN PROVIDED BY: https://github.com/kishanrajput23/Java-Projects-Collections/blob/main/Projects/Chat%20Project/Server.java
+Credit: kishanrajput23
 MIT License
