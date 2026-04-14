@@ -30,7 +30,7 @@ By the end of this session, you will know how to:
 
 ## Authors
 - Done for ACM and SWE @ NYIT
-- Created by Andy Sosa, with collaboration from Jeffrey Chu
+- Created by Andy Sosa(https://github.com/AndysBoot), with collaboration from Jeffrey Chu (https://github.com/jeffreychu0)
 
 
 ## License
