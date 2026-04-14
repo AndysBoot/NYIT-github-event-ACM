@@ -8,6 +8,6 @@ A chess game that can be played locally from your device.
 - It's quite confusing to tell which pieces are white and black. Try adding images to each piece to make the distinction better.
 
 
-THIS PROJECT HAS BEEN PROVIDED BY: https://github.com/Efeckc17/simple-example-projects-in-Python
-Credit: Efeckc17
+THIS PROJECT HAS BEEN PROVIDED BY: https://github.com/kishanrajput23/Java-Projects-Collections/blob/main/Projects/Chat%20Project/Server.java
+Credit: kishanrajput23
 MIT License
